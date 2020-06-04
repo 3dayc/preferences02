@@ -1,4 +1,4 @@
-https://ecstatic-kowalevski-868836.netlify.app
+https://front-end-02.netlify.app
 
 # SCSS Masterclass
 
